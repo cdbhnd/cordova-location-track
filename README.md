@@ -1,4 +1,4 @@
-# :large_blue_diamond [Ionic 1] Cordova Background Geolocation &mdash; Demo
+# Cordova Background Geolocation &mdash; Demo
 
 ![Home](https://dl.dropboxusercontent.com/u/2319755/cordova-background-geolocaiton/screenshot-iphone5-geofences-framed-README.png)
 ![Settings](https://dl.dropboxusercontent.com/u/2319755/cordova-background-geolocaiton/screenshot-iphone5-settings-framed-README.png)
